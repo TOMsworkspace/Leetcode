@@ -1,0 +1,9 @@
+[submodule "LogicStack-LeetCode"]
+	path = LogicStack-LeetCode
+	url = https://github.com/SharingSource/LogicStack-LeetCode.git
+[submodule "ACM-template"]
+	path = ACM-template
+	url = https://github.com/Strive-for-excellence/ACM-template.git
+[submodule "algorithm-stone"]
+	path = algorithm-stone
+	url = https://github.com/acm-clan/algorithm-stone.git
