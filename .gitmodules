@@ -7,3 +7,6 @@
 [submodule "algorithm-stone"]
 	path = algorithm-stone
 	url = https://github.com/acm-clan/algorithm-stone.git
+[submodule "ACM-Code-Library"]
+	path = ACM-Code-Library
+	url = https://github.com/4thcalabash/ACM-Code-Library.git
